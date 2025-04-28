@@ -101,7 +101,3 @@ Building this port scanner was a really fun and educational experience. It gave 
 
 The goal was to build something simple to understand, and I think I’ve done that. But there’s always room for improvement, and that’s what makes this field (and coding in general) so exciting!
 
----
-
-And there you have it — my very own simple port scanner! Feel free to use it, tinker with it, and let me know if you come up with any cool enhancements!
-
